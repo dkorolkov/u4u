@@ -1,0 +1,11 @@
+form.add .edit {
+    display: none;
+}
+
+form.edit .add {
+    display: none;
+}
+
+form li {
+    list-style: none;
+}
