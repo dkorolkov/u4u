@@ -1,0 +1,4 @@
+tornado==4.4.2
+websockets==3.3
+pika==0.10.0
+pymongo==3.4.0
